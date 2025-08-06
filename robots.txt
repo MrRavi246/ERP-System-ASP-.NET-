@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/
+Allow: /
+
+# College ERP System
+# Educational management platform
